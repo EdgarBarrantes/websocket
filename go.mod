@@ -1,4 +1,4 @@
-module nhooyr.io/websocket
+module github.com/EdgarBarrantes/websocket
 
 go 1.13
 
